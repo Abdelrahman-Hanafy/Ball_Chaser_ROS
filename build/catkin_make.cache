@@ -1,0 +1,2 @@
+ball_chaser:my_robot
+-DCATKIN_DEVEL_PREFIX=/home/hanafy/RSEdegree/scat_ws/devel -DCMAKE_INSTALL_PREFIX=/home/hanafy/RSEdegree/scat_ws/install -G Unix Makefiles
