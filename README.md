@@ -14,7 +14,8 @@ you should have the following list installed
 # Install and Launch
 
 first download the project 
-``` $ git clone https://github.com/Abdelrahman-Hanafy/Ball_Chaser_ROS.git 
+``` 
+    $ git clone https://github.com/Abdelrahman-Hanafy/Ball_Chaser_ROS.git 
 
 then **DELETE** the following dirs and rebuils them : _build and devel_ 
     $ cd [path where you cloned]/Ball_Chaser_ROS
