@@ -65,8 +65,11 @@ Directory Structure
             └── worlds                          # world folder for world files
                 ├── empty.world
                 ├── myworld.world
-                └── world.world
-
+                └── world.world    
+    ├── media                                   # media folder for the project working
+        ├── Screencast from 06-09-20 14:27:31.webm
+        ├── Screenshot from 2020-09-04 21-24-52.png
+        └── Screenshot from 2020-09-04 21-25-54.png
 ```
 
 
